@@ -1,0 +1,10 @@
+{
+    "original_filename": "afk.exe",
+    "original_hash": "ea8ae55f81eb95ae85b0d05769c672130995f527e2f47e014ad9bf564ddde4cc",
+    "chunk_size_mb": 50,
+    "chunks": [
+        "afk.exe.part001",
+        "afk.exe.part002",
+        "afk.exe.part003"
+    ]
+}
